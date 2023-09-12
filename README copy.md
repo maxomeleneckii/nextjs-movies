@@ -1,1 +1,0 @@
-![Vercel](https://vercelbadge.vercel.app/api/maxomeleneckii/nextjs-movies)
